@@ -28,7 +28,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 70px;
+  height: 80px;
   width: 100%;
   backdrop-filter: blur(10px);
   border-bottom: 1px solid rgba(33, 231, 76, 0.2);
@@ -40,7 +40,7 @@ header nav ul {
 }
 
 header nav ul li {
-  font-size: 1.8rem;
+  font-size: 2.5rem;
   color: rgba(62, 160, 54, 0.7);
   font-weight: 700;
 }
@@ -48,7 +48,6 @@ header nav ul li {
 /* CONTEÚDO PRINCIPAL */
 main.container {
   flex: 1;
-  margin-top: 50px;
   padding: 40px 20px 20px;
   display: flex;
   flex-direction: column;
